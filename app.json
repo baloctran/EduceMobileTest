@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Educe:Health",
+    "icon": "./assets/spiral.png",
+    "version": "1.0.0",
+    "slug": "eh_0_0_3",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.educe.health"
+    },
+    "android": {
+      "package": "com.educe.health"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+export const getTemplates = ( state ) => state.templates
+export const getOutputs = ( state ) => state.outputs
+export const getQuestiongroups = ( state ) => state.questiongroups
+export const getQuestions = ( state ) => state.questions
+export const getAnswers = ( state ) => state.answers
+export const getPatients = ( state ) => state.patients
+export const getResponses = ( state ) => state.responses
+export const getSearch = ( state ) => state.search
+export const getIdentity = ( state ) => state.identity
+export const getAuth = ( state ) => state.auth
+export const getSubscription = ( state ) => state.subscription
+export const getPouch = ( state ) => state.pouch.Pouch
+export const getSearchResults = ( state ) => state.search
+export const getElasticSearch = ( state ) => state.elastic
+export const getWorklists = ( state ) => state.worklists
+export const getInterventions = ( state ) => state.interventions

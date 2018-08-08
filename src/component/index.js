@@ -1,0 +1,5 @@
+export DateOfBirth from './DateOfBirth'
+export NHI from './NHI'
+export FirstLetterInCircle from './FirstLetterInCircle'
+export Header from './Header'
+export PatientName from './PatientName'
